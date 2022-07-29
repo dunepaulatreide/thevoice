@@ -6,5 +6,5 @@ Encrypted information, converted to Chinese characters
 
 Require
 
-.net 4.5
+.Net framework 4.5
 
